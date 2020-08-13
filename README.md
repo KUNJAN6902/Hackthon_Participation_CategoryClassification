@@ -1,7 +1,7 @@
 # Hackthon_Participation_CategoryClassification
 Classify Category of the Problem based on given dataset
 
-This data represents Dataset of a commpany which is providing OnCall service to customers for various problem categories.
+This data represents Dataset of a company which is providing OnCall service to customers for various problem categories.
 like, Car breakdown, Home repair etc.
 
 There are three different categories of data given in dataset. Dataset is very skewed with 6001, ~300 and ~100 records for three categories respectively.
